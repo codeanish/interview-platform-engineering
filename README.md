@@ -2,7 +2,7 @@
 
 A colleague has developed an API using python and a UI using React. They need some help dockerising their app and running acceptance tests against their app.
 
-You are not expected to complete this entire exercise in the time allocated. We're looking for good problem solving skills and logical thoughts in trying to work through the problem. You may use any amount of googling to work through your solution. AI assitance is not acceptable.
+Fork this repository and work on your solution in a branch you create. You are not expected to complete this entire exercise in the time allocated. We're looking for good problem solving skills and logical thoughts in trying to work through the problem. You may use any amount of googling to work through your solution. AI assitance is not acceptable.
 
 ## Problems:
 1. Not all of the tests on the API are passing, make sure they are passing
