@@ -1,0 +1,16 @@
+version: '3.2'
+services:
+  api:
+    image: api
+    ports:
+      - "8000:8000"
+    restart: always
+    build: ./api
+  ui:
+    image: ui
+    ports:
+      - "80:80"
+    restart: always
+    build: ./ui
+    environment:
+      - REACT_APP_API_URL=http://api:8000
