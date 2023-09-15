@@ -2,6 +2,8 @@
 
 A colleague has developed an API using python and a UI using React. They need some help dockerising their app and running acceptance tests against their app.
 
+You are not expected to complete this entire exercise in the time allocated. We're looking for good problem solving skills and logical thoughts in trying to work through the problem. You may use any amount of googling to work through your solution. AI assitance is not acceptable.
+
 ## Problems:
 1. Not all of the tests on the API are passing, make sure they are passing
 2. Create a Dockerfile for the API and test the API once you've built/run it
@@ -16,6 +18,3 @@ This has been built using python with a dependency management and packaging solu
 
 ## UI
 This has been built in ReactJS and makes a call to the API to receive it's answer.
-
-### Notes
-You are not expected to complete this entire exercise in the time allocated. We're looking for good problem solving skills and logical thoughts in trying to work through the problem. You may use any amount of googling to work through your solution. AI assitance is not acceptable.
