@@ -4,6 +4,11 @@ A colleague has developed an API using python and a UI using React. They need so
 
 Fork this repository and work on your solution in a branch you create. You are not expected to complete this entire exercise in the time allocated. We're looking for good problem solving skills and logical thoughts in trying to work through the problem. You may use any amount of googling to work through your solution. AI assitance is not acceptable.
 
+## Pre-requisites
+* Docker installed
+* NPM installed
+* Python installed
+
 ## Problems:
 1. Not all of the tests on the API are passing, make sure they are passing
 2. Create a Dockerfile for the API and test the API once you've built/run it
